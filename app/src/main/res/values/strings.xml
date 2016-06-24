@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">DevIntensive</string>
+    <string name="app_name">Бердников Андрей</string>
+    <string name="hint_phone">Мобильный телефон</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_github">Репозиторий</string>
+    <string name="hint_vk">Профиль в vk</string>
+    <string name="hint_about_me">О себе</string>
+    <string name="text_phone">8(965)3946343</string>
+    <string name="text_email">baa.gps@gmail.ru</string>
+    <string name="text_github">github.com/anberdnikov/DevIntensive</string>
+    <string name="text_vk">vk.com/berdnikov63</string>
+    <string name="text_about_me">Расскажите коротко о себе.</string>
 </resources>
